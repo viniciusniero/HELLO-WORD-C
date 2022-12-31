@@ -10,6 +10,14 @@ namespace HELLO_WORD
     {
         static void Main(string[] args)
         {
+            int numeroQualquer = 20 + 20 - 80;
+            int numeroMult = 10 * 90;
+            int nueroDiv = 90 / 10;
+            Console.WriteLine(numeroQualquer);
+            Console.WriteLine(numeroMult);
+            Console.WriteLine(nueroDiv);
+
+            Console.ReadLine();
         }
     }
 }
